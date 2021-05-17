@@ -1,5 +1,5 @@
 # django_crm
 
-Customer Relationship Management web applation made using Django framework.
+Customer Relationship Management web application made using Django framework.
 
 Required dependencies are in requirements.txt
